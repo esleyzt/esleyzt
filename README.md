@@ -7,5 +7,5 @@
   <br>
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azonixcry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7azonix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <div style="display: inline_block"><br>

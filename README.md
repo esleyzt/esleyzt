@@ -1,11 +1,16 @@
-<br>
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/789217114056949841)](https://discord.com/users/789217114056949841)
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+</p>
 <p align="center">
-   <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>
-  <br>
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7azonix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <div style="display: inline_block"><br>
+    azonix
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=azonix&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+</p>
+<p align="center">
+Currently learning JavaScript
+<p align="center">
+    <a href="https://discord.gg/PEdUEfV46e">Discord Server</a>
+

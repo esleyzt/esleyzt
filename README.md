@@ -1,7 +1,7 @@
-## Hi, i'm azonix!
+## Hi, i'm Azonix!
 
 ### About me
-I'm a full-stack developer. I am currently a student of programming.
+I'm a full-stack developer.
 - [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=836046416572055553&permissions=8&scope=bot%20applications.commands)
  
  </p>
@@ -12,5 +12,5 @@ I'm a full-stack developer. I am currently a student of programming.
  
  </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/789217114056949841.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/789217114056949841.png"/>
 </p>

@@ -1,6 +1,7 @@
 ## Hi, i'm Azonix!
 
 ### About me
+Brazilian, 16y
 I'm a full-stack developer.
 - [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=836046416572055553&permissions=8&scope=bot%20applications.commands)
  

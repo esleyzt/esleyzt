@@ -3,10 +3,11 @@
 ### Hi, I'm Azonix 👋
 
 ## About me
-<div>Brazilian, 16y.</div>
-I'm a full-stack developer.
 
-**[My discord bot.](https://discord.com/api/oauth2/authorize?client_id=836046416572055553&permissions=8&scope=bot%20applications.commands)**
+<div><code align=left>Brazilian, 16y.</code></div>
+<code align=left>I'm a full-stack developer.</code>
+
+**[My discord bot;](https://discord.com/api/oauth2/authorize?client_id=836046416572055553&permissions=8&scope=bot%20applications.commands)**
  
  </p>
   <p align="left">
@@ -14,9 +15,6 @@ I'm a full-stack developer.
  <a href="https://discord.gg/PEdUEfV46e" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  </p>
  
- </p>
-    <p align="left">
-  <img src="https://discord.c99.nl/widget/theme-1/789217114056949841.png"/>
-</p>
+ <a href="https://discord.com/users/789217114056949841" alt="TomG07" align="left"><img src="https://lanyard.cnrad.dev/api/789217114056949841"/></a>
 
 

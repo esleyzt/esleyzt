@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8556ff&lines=Hi,+i'm+Azonix+:D)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8556ff&lines=Hi,+i'm+Azonix+:D)
 <div><code align=left>Faço códigos/bots para discord, sites, exatamente como você quiser. Faça um orçamento me chamando no discord ou no instagram abaixo.</code></div>
 
 #### Discord: azonix#9481

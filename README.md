@@ -1,4 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8556ff&lines=Hi,+i'm+Azonix+:D)](https://esley.site)
+<div align="center">
+  <h1 align="center"><b>Azonix</b></h1>
+
+  
 ###### Faço códigos/bots para discord, sites, exatamente como você quiser. Faça um orçamento me chamando no instagram.
 
 #### Front-end stack
@@ -25,3 +28,4 @@
 <a href="https://instagram.com/offesley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/offesley/offesley/blob/output/github-contribution-grid-snake.svg)
+</div>

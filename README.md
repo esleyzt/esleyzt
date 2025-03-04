@@ -3,7 +3,7 @@
 ## About Me  
 My name is Esley, I am 18 years old, and I am a passionate fullstack developer. I’m always looking for new ways to improve my skills.
 
-- Currently developing aztro.bio  
+- Currently developing aztroui
 
 ## 🛠️ Technologies I Use  
 

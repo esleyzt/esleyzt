@@ -1,9 +1,10 @@
-# [cryium.com/esley](https://cryium.com/esley)
-
 My name is Esley, I am 19 years old, and I am an enthusiast in Web, Mobile, Desktop, Backend, and Game Development.
 
 *Languages:*  
-![Rust](https://img.shields.io/badge/-Rust-d18b00?style=flat-square&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![LuaU](https://img.shields.io/badge/-LuaU-000000?style=flat-square&logo=roblox&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-d18b00?style=flat-square&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![LuaU](https://img.shields.io/badge/-LuaU-000000?style=flat-square&logo=roblox&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)  
+
+*.NET:*  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 *Frontend:*  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
@@ -24,7 +25,7 @@ My name is Esley, I am 19 years old, and I am an enthusiast in Web, Mobile, Desk
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) 
 
 *Game:*  
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-000000?style=flat-square&logo=roblox&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-000000?style=flat-square&logo=roblox&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 *Operating Systems:*  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
